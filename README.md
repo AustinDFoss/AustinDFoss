@@ -1,7 +1,4 @@
-// Austin Foss
-// My Tic-Tac-Toe C Program
-
-
+My Tic-Tac-Toe Program
 
 #include <stdio.h>
 #include <conio.h>
